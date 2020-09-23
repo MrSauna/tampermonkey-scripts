@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GoTo google in duck
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  try to take over the world!
 // @author       You
 // @updateURL    https://github.com/MrSauna/tampermonkey-scripts/raw/master/GoTo%20google%20in%20duck.user.js
@@ -38,7 +38,5 @@
     var new_element = createElementFromHTML(new_element_string)
 
     parent_element.appendChild(new_element)
-
-
 
 })();
