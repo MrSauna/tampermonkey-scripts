@@ -4,6 +4,8 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
+// @updateURL    https://github.com/MrSauna/tampermonkey-scripts/raw/master/GoTo%20duck%20in%20google.user.js
+// @downloadURL  https://github.com/MrSauna/tampermonkey-scripts/raw/master/GoTo%20duck%20in%20google.user.js
 // @match        https://www.google.com/search*
 // @grant        none
 // ==/UserScript==
